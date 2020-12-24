@@ -9,9 +9,9 @@ that takes the originality of bm_sts to Garry's Mod
 Firstly you need a group of people (mainly friends) preferably 2-16 people
 and you will need to vote what the match settings will be basing from
 
-- Score limit (3-12)
-- Starting points (5/90)
-- Team limit (2-4)
+* Score limit (3-12)
+* Starting points (5/90)
+* Team limit (2-4)
 
 How you and your friends vote equals the length of the match 
 (can take 15 minutes to over an hour)
