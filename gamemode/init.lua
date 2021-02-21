@@ -8,3 +8,4 @@ include("server/sv_gameplay.lua")
 
 AddCSLuaFile("client/cl_chat.lua")
 AddCSLuaFile("client/cl_hud.lua")
+AddCSLuaFile("client/cl_voting.lua")
